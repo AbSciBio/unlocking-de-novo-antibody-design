@@ -57,7 +57,7 @@ Details about Trastuzumab-HER2 model system:
 ## Citations
 If you find these data or results useful, we ask that you cite our work: 
 ```
-@article{Shanehsazzadeh2023,
+@article{shanehsazzadeh2023denovoab,
   author = {Shanehsazzadeh, Amir and Bachas, Sharrol and Kasun, George and Sutton, John M. and Steiger, Andrea K. and Shuai, Richard and Kohnert, Christa and Morehead, Alex and Brown, Amber and Chung, Chelsea and Luton, Breanna K. and Diaz, Nicolas and McPartlon, Matt and Knight, Bailey and Radach, Macey and Bateman, Katherine and Spencer, David A. and Cejovic, Jovan and Kopec-Belliveau, Gaelin and Haile, Robel and Yassine, Edriss and McCloskey, Cailen and Natividad, Monica and Chapman, Dalton and Stojanovic, Luka and Rakocevic, Goran and Hannum, Gregory and Yapici, Engin and Moran, Katherine and Caguiat, Rodante and Abdulhaqq, Shaheed and Guo, Zheyuan and Klug, Lillian R. and Gander, Miles and Meier, Joshua},
   title = {Unlocking de novo antibody design with generative artificial intelligence},
   year = {2023},
