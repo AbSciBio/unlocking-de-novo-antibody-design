@@ -1,5 +1,5 @@
 # Unlocking _de novo_ antibody design with generative artificial intelligence
-Sequences of binding antibodies and corresponding affinity values identified in the study [Unlocking _de novo_ antibody design with generative artificial intelligence](https://www.biorxiv.org/). 
+Sequences of binding antibodies and corresponding affinity values identified in the study [Unlocking _de novo_ antibody design with generative artificial intelligence](https://www.biorxiv.org/content/10.1101/2023.01.08.523187v1). 
 
 We present data for _zero-shot_ HCDR3 designs (`zero-shot-designs.csv`) and multi-step multi-HCDR designs (`multi-step-binders.csv`).
 
@@ -55,6 +55,17 @@ Details about Trastuzumab-HER2 model system:
 * Complex Structure: [PDB:1N8Z](https://www.rcsb.org/structure/1N8Z)
 -----------------------------------------------------------------------------------------------------
 ## Citations
-If you find these data or results useful, we ask that you cite our work: ```@article{}```
+If you find these data or results useful, we ask that you cite our work: 
+```
+@article{Shanehsazzadeh2023,
+  author = {Shanehsazzadeh, Amir and Bachas, Sharrol and Kasun, George and Sutton, John M. and Steiger, Andrea K. and Shuai, Richard and Kohnert, Christa and Morehead, Alex and Brown, Amber and Chung, Chelsea and Luton, Breanna K. and Diaz, Nicolas and McPartlon, Matt and Knight, Bailey and Radach, Macey and Bateman, Katherine and Spencer, David A. and Cejovic, Jovan and Kopec-Belliveau, Gaelin and Haile, Robel and Yassine, Edriss and McCloskey, Cailen and Natividad, Monica and Chapman, Dalton and Stojanovic, Luka and Rakocevic, Goran and Hannum, Gregory and Yapici, Engin and Moran, Katherine and Caguiat, Rodante and Abdulhaqq, Shaheed and Guo, Zheyuan and Klug, Lillian R. and Gander, Miles and Meier, Joshua},
+  title = {Unlocking de novo antibody design with generative artificial intelligence},
+  year = {2023},
+  doi = {10.1101/2023.01.08.523187},
+  publisher = {Cold Spring Harbor Laboratory},
+  URL = {https://www.biorxiv.org/content/10.1101/2023.01.08.523187v1},
+  journal = {bioRxiv}
+}
+```
 ## License
 The data in this repository are licensed under the Clear BSD License found in the `LICENSE` file in the root directory of this source tree.
