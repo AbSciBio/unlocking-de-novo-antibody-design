@@ -6,8 +6,8 @@ We present data for _zero-shot_ HCDR3 designs (`zero-shot-designs.csv`) and mult
 -----------------------------------------------------------------------------------------------------
 Data in `zero-shot-designs.csv` are organized with the following columns:
 * `HCDR3`: Heavy chain CDR3 amino acid sequence
-* `KD (M)`: Binding affinity (disassociation constant in molar units)
-* `KD (nM)`: Binding affinity (disassociation constant in nanomolar units)
+* `KD (M)`: Binding affinity (dissociation constant in molar units)
+* `KD (nM)`: Binding affinity (dissociation constant in nanomolar units)
 * `-log(KD (M))`: Negative logarithm (base 10) of `KD (M)`
 * `HCDR3 Edit Distance to Trastuzumab`: Number of mutations from designed HCDR3 to trastuzumab's HCDR3
 * `Minimum HCDR3 Edit Distance to SAbDab`: Minimum number of mutations from designed HCDR3 to the HCDR3s in the [Structural Antibody Database (SAbDab)](https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/). Note: SAbDab was retrieved on August 29th, 2022.
@@ -22,8 +22,8 @@ Data in `multi-step-designs.csv` are organized with the following columns:
 * `HCDR1`: Heavy chain CDR1 amino acid sequence
 * `HCDR2`: Heavy chain CDR2 amino acid sequence
 * `HCDR3`: Heavy chain CDR3 amino acid sequence
-* `KD (M)`: Binding affinity (disassociation constant in molar units)
-* `KD (nM)`: Binding affinity (disassociation constant in nanomolar units)
+* `KD (M)`: Binding affinity (dissociation constant in molar units)
+* `KD (nM)`: Binding affinity (dissociation constant in nanomolar units)
 * `-log(KD (M))`: Negative logarithm (base 10) of `KD (M)`
 * `HCDR1 Edit Distance to Trastuzumab`: Number of mutations from designed HCDR1 to trastuzumab's HCDR1
 * `HCDR2 Edit Distance to Trastuzumab`: Number of mutations from designed HCDR2 to trastuzumab's HCDR2
