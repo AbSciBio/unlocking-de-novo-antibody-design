@@ -6,7 +6,6 @@ We present SPR data for _zero-shot_ HCDR3 designs (`zero-shot-designs.csv`); SPR
 -----------------------------------------------------------------------------------------------------
 Data in `zero-shot-designs.csv` are organized with the following columns:
 * `HCDR3`: Heavy chain CDR3 amino acid sequence
-* `KD (M)`: Binding affinity (dissociation constant in molar units)
 * `KD (nM)`: Binding affinity (dissociation constant in nanomolar units)
 * `-log(KD (M))`: Negative logarithm (base 10) of `KD (M)`
 * `HCDR3 Edit Distance to Trastuzumab`: Number of mutations from designed HCDR3 to trastuzumab's HCDR3
